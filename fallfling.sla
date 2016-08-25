@@ -123,7 +123,7 @@
             <ITEXT FONT="Ubuntu Bold" FONTSIZE="10" FCOLOR="White" CH="SATURDAY, SEPTEMBER "/>
             <ITEXT CH="17, 2016"/>
             <para ALIGN="1" LINESP="9"/>
-            <ITEXT FONTSIZE="10" FCOLOR="White" CH="EVENT #1 - PELLA WINDOWS CRITERIUM"/>
+            <ITEXT FONTSIZE="10" FCOLOR="White" CH="EVENT #1 - DUPAGE BUSINESS PARK CRITERIUM #1"/>
             <trail LINESP="9"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -493,7 +493,7 @@
             <ITEXT FONT="Ubuntu Bold" FONTSIZE="10" FCOLOR="White" CH="SUNDAY, SEPTEMBER "/>
             <ITEXT CH="18, 2016"/>
             <para ALIGN="1" LINESP="9"/>
-            <ITEXT FONTSIZE="10" FCOLOR="White" CH="EVENT #2 - DUPAGE BUSINESS PARK CRITERIUM"/>
+            <ITEXT FONTSIZE="10" FCOLOR="White" CH="EVENT #2 - DUPAGE BUSINESS PARK CRITERIUM #2"/>
             <trail LINESP="9"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
