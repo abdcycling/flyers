@@ -289,7 +289,7 @@
             <para ALIGN="1"/>
             <ITEXT FONT="Ubuntu Bold" FONTSIZE="10" CH="Prizes for the top riders in each category"/>
             <ITEXT FONT="Ubuntu Regular" FONTSIZE="10" CH=" "/>
-            <ITEXT FONT="Ubuntu Italic" FONTSIZE="9" FSHADE="60" CH="(must do 2/3 of indoors &amp; JFMTT to qualify)"/>
+            <ITEXT FONT="Ubuntu Italic" FONTSIZE="9" FSHADE="60" CH="(must do all 3 indoors &amp; JFMTT to qualify)"/>
             <para ALIGN="1"/>
             <ITEXT FONT="Ubuntu Bold" FONTSIZE="10" CH="MATTS Medals"/>
             <ITEXT FONT="Ubuntu Regular" FONTSIZE="10" CH=" awarded to top 5 riders in each category at every event"/>
