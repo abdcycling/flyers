@@ -127,10 +127,10 @@
             <para LINESP="7"/>
             <ITEXT FONT="Roboto Bold" FONTSIZE="14" CH="FEES:"/>
             <para/>
-            <ITEXT CH=" - First 3 Races, Medals Only: "/>
+            <ITEXT CH=" - First 2 Races, Medals Only: "/>
             <ITEXT FONT="Roboto Bold" CH="$25"/>
             <para/>
-            <ITEXT CH=" - Last 3 Races, Prize Money: "/>
+            <ITEXT CH=" - Last 2 Races, Prize Money: "/>
             <ITEXT FONT="Roboto Bold" CH="$30"/>
             <trail/>
             <PageItemAttributes/>
