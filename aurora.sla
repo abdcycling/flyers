@@ -69,7 +69,40 @@
         </Sections>
         <MASTERPAGE PAGEXPOS="100.0008" PAGEYPOS="20.0016" PAGEWIDTH="595.2816" PAGEHEIGHT="841.8888" BORDERLEFT="9" BORDERRIGHT="9" BORDERTOP="18" BORDERBOTTOM="18" NUM="0" NAM="Normal" MNAM="" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="20.0016" PAGEWIDTH="595.2816" PAGEHEIGHT="841.8888" BORDERLEFT="9" BORDERRIGHT="9" BORDERTOP="18" BORDERBOTTOM="18" NUM="0" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
-        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="340.5" YPOS="340.5" WIDTH="173.5008" HEIGHT="15" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Yellow" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 173.501 0 173.501 0 173.501 0 173.501 0 173.501 15 173.501 15 173.501 15 173.501 15 0 15 0 15 0 15 0 15 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 173.501 0 173.501 0 173.501 0 173.501 0 173.501 15 173.501 15 173.501 15 173.501 15 0 15 0 15 0 15 0 15 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="109.0008" YPOS="220.0016" WIDTH="577.25" HEIGHT="223.5" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="10" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESP="13" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Roboto Regular" ISIZE="12" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="7.2" TEXTRA="7.2" BEXTRA="7.2" REXTRA="7.2" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 577.25 0 577.25 0 577.25 0 577.25 0 577.25 223.5 577.25 223.5 577.25 223.5 577.25 223.5 0 223.5 0 223.5 0 223.5 0 223.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 577.25 0 577.25 0 577.25 0 577.25 0 577.25 223.5 577.25 223.5 577.25 223.5 577.25 223.5 0 223.5 0 223.5 0 223.5 0 223.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="325.313093824228" gWidth="577.25" gHeight="637.75" ALIGN="3" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Roboto Bold" FONTSIZE="14" CH="WHEN:"/>
+            <ITEXT FONT="Roboto Regular" FONTSIZE="12" CH=" Saturday, May 28, 2022."/>
+            <para ALIGN="3" LINESP="13"/>
+            <para ALIGN="3" LINESP="8"/>
+            <ITEXT FONT="Roboto Bold" FONTSIZE="14" CH="WHERE:"/>
+            <ITEXT FONT="Roboto Regular" FONTSIZE="12" CH=" Deerpath Road and Breton Avenue, North Aurora, IL 60542."/>
+            <ITEXT CH=" "/>
+            <ITEXT FCOLOR="Blue" CH="MAP URL: shorturl.at/nCFO8"/>
+            <para ALIGN="3" LINESP="13"/>
+            <para ALIGN="3" LINESP="8"/>
+            <ITEXT FONT="Roboto Bold" FONTSIZE="14" CH="REGISTRATION:"/>
+            <ITEXT FONT="Roboto Regular" FONTSIZE="12" CH=" Pre-Registration only, no day of registration! Pre-registration closes at 11:59pm on Tuesday, May 24, 2022. "/>
+            <ITEXT FONT="Roboto Regular" FONTSIZE="12" FCOLOR="Black" CH="No Refunds. Cat 5 racers are allowed to only race once per day."/>
+            <ITEXT CH=" Schedule will be final on Thursday, May 26, 2022."/>
+            <para ALIGN="3" LINESP="13"/>
+            <para ALIGN="3" LINESP="8"/>
+            <ITEXT FONT="Roboto Bold" FONTSIZE="14" CH="RULES:"/>
+            <ITEXT FONT="Roboto Regular" FONTSIZE="12" CH=" Must have proof of 2022 ABR License. "/>
+            <ITEXT CH="Licenses can be purchased online at "/>
+            <ITEXT FCOLOR="Blue" CH="https://secure.getmeregistered.com/get_information.php?event_id=1217"/>
+            <ITEXT CH=". ABD reserves the right to merge races with less than 7 participants."/>
+            <para ALIGN="3" LINESP="13"/>
+            <para ALIGN="1" LINESP="7"/>
+            <ITEXT FONT="Roboto Bold" FONTSIZE="11" FCOLOR="Red" CH="Must have proof of COVID-19 vaccination or have proof of a negative COVID-19 test within 48 hours of the event. COVID-19 State Mandates and Protocols will be respected. Failure to do so may result in disqualification."/>
+            <para ALIGN="1"/>
+            <para LINESP="7"/>
+            <ITEXT FONT="Roboto Bold" FONTSIZE="14" CH="FEES:"/>
+            <para/>
+            <ITEXT CH=" - First 2 Races, Medals Only: "/>
+            <ITEXT FONT="Roboto Bold" CH="$25"/>
+            <para/>
+            <ITEXT CH=" - Last 2 Races, Prize Money: "/>
+            <ITEXT FONT="Roboto Bold" CH="$30"/>
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -92,47 +125,8 @@
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="109.0008" YPOS="156.0516" WIDTH="576.75" HEIGHT="51" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="Black" PCOLOR2="None" TXTFILL="Orange" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESP="34" LINESPMode="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Roboto Bold" ISIZE="26" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="2" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 576.75 0 576.75 0 576.75 0 576.75 0 576.75 51 576.75 51 576.75 51 576.75 51 0 51 0 51 0 51 0 51 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 576.75 0 576.75 0 576.75 0 576.75 0 576.75 51 576.75 51 576.75 51 576.75 51 0 51 0 51 0 51 0 51 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0.5" gYpos="181.478503562945" gWidth="577.25" gHeight="637.75" ALIGN="1" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="Roboto Bold" FONTSIZE="26" FCOLOR="Orange" CH="SUNDAY, OCTOBER 3, 2021"/>
+            <ITEXT FONT="Roboto Bold" FONTSIZE="26" FCOLOR="Orange" CH="SATURDAY, MAY 28, 2022"/>
             <trail LINESP="34"/>
-            <PageItemAttributes/>
-        </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="109.0008" YPOS="220.0016" WIDTH="577.25" HEIGHT="223.5" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="10" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESP="13" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Roboto Regular" ISIZE="12" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="7.2" TEXTRA="7.2" BEXTRA="7.2" REXTRA="7.2" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 577.25 0 577.25 0 577.25 0 577.25 0 577.25 223.5 577.25 223.5 577.25 223.5 577.25 223.5 0 223.5 0 223.5 0 223.5 0 223.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 577.25 0 577.25 0 577.25 0 577.25 0 577.25 223.5 577.25 223.5 577.25 223.5 577.25 223.5 0 223.5 0 223.5 0 223.5 0 223.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="325.313093824228" gWidth="577.25" gHeight="637.75" ALIGN="3" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="Roboto Bold" FONTSIZE="14" CH="WHEN:"/>
-            <ITEXT FONT="Roboto Regular" FONTSIZE="12" CH=" Sunday, October 3, 2021."/>
-            <para ALIGN="3" LINESP="13"/>
-            <para ALIGN="3" LINESP="8"/>
-            <ITEXT FONT="Roboto Bold" FONTSIZE="14" CH="WHERE:"/>
-            <ITEXT FONT="Roboto Regular" FONTSIZE="12" CH=" Deerpath Road and Breton Avenue, North Aurora, IL 60542."/>
-            <ITEXT CH=" "/>
-            <ITEXT FCOLOR="Blue" CH="MAP URL: shorturl.at/nCFO8"/>
-            <para ALIGN="3" LINESP="13"/>
-            <para ALIGN="3" LINESP="8"/>
-            <ITEXT FONT="Roboto Bold" FONTSIZE="14" CH="REGISTRATION:"/>
-            <ITEXT FONT="Roboto Regular" FONTSIZE="12" CH=" Pre-Registration only, no day of registration! Pre-registration closes at 11:59pm on Tuesday, September 28, 2021. "/>
-            <ITEXT FONT="Roboto Regular" FONTSIZE="12" FCOLOR="Black" CH="No Refunds. Cat 5 racers are allowed to only race once per day."/>
-            <ITEXT CH=" Schedule will be final on Thursday, September 30, 2021."/>
-            <para ALIGN="3" LINESP="13"/>
-            <para ALIGN="3" LINESP="8"/>
-            <ITEXT FONT="Roboto Bold" FONTSIZE="14" CH="RULES:"/>
-            <ITEXT FONT="Roboto Regular" FONTSIZE="12" CH=" Must have proof of 2021 ABR License. "/>
-            <ITEXT CH="Licenses can be purchased online at "/>
-            <ITEXT FCOLOR="Blue" CH="https://secure.getmeregistered.com/get_information.php?event_id=1217"/>
-            <ITEXT CH=". ABD reserves the right to merge races with less than 7 participants. "/>
-            <ITEXT FONT="Roboto Bold" CH="This is the Final Race Schedule"/>
-            <ITEXT CH="."/>
-            <para ALIGN="3" LINESP="13"/>
-            <para ALIGN="1" LINESP="7"/>
-            <ITEXT FONT="Roboto Bold" FONTSIZE="11" FCOLOR="Red" CH="Must have proof of COVID-19 vaccination or have proof of a negative COVID-19 test within 48 hours of the event. COVID-19 State Mandates and Protocols will be respected. Failure to do so may result in disqualification."/>
-            <para ALIGN="1"/>
-            <para LINESP="7"/>
-            <ITEXT FONT="Roboto Bold" FONTSIZE="14" CH="FEES:"/>
-            <para/>
-            <ITEXT CH=" - First 2 Races, Medals Only: "/>
-            <ITEXT FONT="Roboto Bold" CH="$25"/>
-            <para/>
-            <ITEXT CH=" - Last 2 Races, Prize Money: "/>
-            <ITEXT FONT="Roboto Bold" CH="$30"/>
-            <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="110.1008" YPOS="459.701599999999" WIDTH="432.648" HEIGHT="22.1875" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="0" PCOLOR="Black" PCOLOR2="Black" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="10" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESP="16" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Roboto Bold" ISIZE="18" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="2" TEXTFLOW="1" TEXTFLOW2="1" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="2" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 432.648 0 432.648 0 432.648 0 432.648 0 432.648 22.1875 432.648 22.1875 432.648 22.1875 432.648 22.1875 0 22.1875 0 22.1875 0 22.1875 0 22.1875 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 432.648 0 432.648 0 432.648 0 432.648 0 432.648 22.1875 432.648 22.1875 432.648 22.1875 432.648 22.1875 0 22.1875 0 22.1875 0 22.1875 0 22.1875 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0.000799999999998136" gYpos="0" gWidth="360.0008" gHeight="260.372" ALIGN="1" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
